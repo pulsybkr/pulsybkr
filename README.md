@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pulsybkr
 - 👀 I’m interested in  l'univers  du web et les nouveles technologies
-- 🌱 I’m currently learning le  developpement web  notemment les languages  (html, css et javascript)
+- 🌱 j'etudie le developpement web 
 
-- 💞️ I cherche actuellement un stage et eventuellement une alternance pour Septembre ou Octobre 2022
+- 💞️Je suis à la recherche d’une alternance d'une durée de 9 mois, de mars 2023 à janvier 2024.
 
 <!---
 pulsybkr/pulsybkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
