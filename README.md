@@ -12,3 +12,6 @@ Je m'intéresse particulièrement aux avancées de l'IA et travaille actuellemen
 
 🎯 Objectif :
 Apporter des solutions techniques innovantes et optimiser le développement de projets ambitieux.
+
+![WakaTime](https://wakatime.com/badge/user/tonIdWakatime.svg)
+
