@@ -13,5 +13,8 @@ Je m'intéresse particulièrement aux avancées de l'IA et travaille actuellemen
 🎯 Objectif :
 Apporter des solutions techniques innovantes et optimiser le développement de projets ambitieux.
 
-![WakaTime](https://wakatime.com/badge/user/tonIdWakatime.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulsybkr)](https://github.com/pulsybkr/github-readme-stats)
+
+![WakaTime](https://wakatime.com/badge/pulsybkr/tonIdWakatime.svg)
+
 
