@@ -16,5 +16,4 @@ Apporter des solutions techniques innovantes et optimiser le développement de p
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulsybkr&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pulsybkr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Metrics](https://metrics.lecoq.io/pulsybkr?template=classic&repositories=100&languages=1&followup=1)](https://metrics.lecoq.io)
 
